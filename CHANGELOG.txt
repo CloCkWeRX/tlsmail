@@ -1,3 +1,7 @@
+April 24, 2012
+- Fixed bug on cert_chain must not be nil on gemspec
+- Bumped version to 0.0.3
+
 December 9, 2010
  - Imported the old gem so I could do some work on it.
  - Turned off verbosity while assigning class alias. Silences the "warning: already initialized constant XXXX" error.
